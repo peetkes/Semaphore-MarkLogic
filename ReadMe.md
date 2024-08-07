@@ -72,3 +72,5 @@ For the marklogic container there are 3 folders mapped to the host:
 
 WIth these mappings you can persist backups, get data fom host to container so you can use xdmp:load to load documents via the QConsole and tail logs on your host system.
 
+You might need to adjust the compose file if you are running on non intel arch. Also there are some timeouts hradcoded in the various scripts that mght need some tweeking.
+
