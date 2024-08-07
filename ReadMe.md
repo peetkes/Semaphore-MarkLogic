@@ -1,6 +1,6 @@
 # Semaphore-MarkLogic cluster
 
-This project describes how to setup a docker cluster with all semaphore components with a MarkLogic database as backend.
+This project describes how to setup a docker cluster with all semaphore components with a MarkLogic database as backend. It is a copy of the following repo: https://github.com/Smartlogic-Semaphore-Limited/docker-examples/tree/main/5.8/oraclelinux9
 
 For this purpose you need to download the proper licence file and the various rpm files from Semaphore and put those in the right folders. Get the rpms and the appropriate licence file from here: https://portal.smartlogic.com/support/downloads
 
